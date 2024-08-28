@@ -1,0 +1,1 @@
+### Studies the interaction of user on an online Ad through CTR (click through rate) and predicts what kind of ads user interacts more.
